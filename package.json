@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jorginBlack/video-make/issues"
   },
-  "homepage": "https://github.com/jorginBlack/video-make#readme"
+  "homepage": "https://github.com/jorginBlack/video-make#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
